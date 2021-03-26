@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gallery App</string>
+    <!-- Shared Preferences -->
+    <string name="sp_token_auth">token_auth</string>
+    <!-- Network Errors -->
+    <string name="e_service_failed">Failed to retrieve data from service, try again later</string>
+    <string name="e_code_status">Failed to connect to server, status: </string>
+    <string name="e_auth_failed">Failed to authenticate app, try again later</string>
+    <string name="e_no_more_images">No more images to load from server</string>
+    <!-- Transition -->
+    <string name="t_detail">show_detail</string>
+</resources>
